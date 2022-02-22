@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<personalinformation>
+		<name>
+			<first>Tatiana</first>
+			<last>Gordievskaia</last>
+		</name>
+		<age>34</age>
+		<pets>0</pets>
+		<salary>150000</salary>
+	</personalinformation>	
