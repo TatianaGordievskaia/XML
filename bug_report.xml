@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+	<bug>
+		<summary>Login page The button`register` not firing after clicking on the page</summary>
+		<project>Shop Zara</project>
+		<component>Registration form</component>
+		<version>5,64</version>
+		<severity>Critical</severity>
+		<priority>High</priority>
+		<status>Open</status>
+		<author>Tatiana Gordievskaia</author>
+		<steps_for_reproduce>Open Login page, clicking the buttom `register`</steps_for_reproduce>
+		<result>The page does not go to the registration page</result>
+		<expected_result>The page goes to the registration page</expected_result>
+    </bug>
